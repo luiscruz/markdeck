@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Test / tooling
+.pytest_cache/
+.coverage
+
+# macOS
+.DS_Store
+
+# Generated output
+*.pdf
